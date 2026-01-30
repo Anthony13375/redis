@@ -44,4 +44,6 @@
 
 *Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.*
 
+#### Ответ к заданию 4
+
 ![Redis](https://github.com/Anthony13375/redis/blob/main/img/Screenshot_3.png)
